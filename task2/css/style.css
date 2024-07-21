@@ -1,0 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:"Edu AU VIC WA NT Hand", cursive;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    transition: .2s linear;
+
+}
+
+
+html{ 
+ scroll-behavior: smooth;
+ 
+ 
+}
+
+/* section */
+section{padding:3rem;
+        
+        
+    
+
+
+}
+
+/* header */
+header{
+  position: fixed;
+  top:0; left :0; right:0;
+  padding:2rem;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom:1px ;
+}
+
+/* logo */
+.logo{ 
+  
+    font-size: 3rem;
+    color:rgb(237, 189, 111);
+    font-weight:bolder}
+ 
+    /* nav */
+.navbar a{
+  font-size: 1rem;
+  padding: 0 1.5rem;
+  color:rgb(237, 189, 111);
+  white-space: 2rem;
+  
+  
+}
+
+
+
+.home{  
+       display: flex;
+        align-items:center;
+        min-height:100vh;
+         background: url(../assets/img/Serene\ Beach\ Sunset\ Art\ Print\ -\ Tranquil\ Coastal\ Landscape.jpg)no-repeat; 
+        background-size: cover;
+        background-position: center;
+       
+      
+      
+    
+    
+}
+       
+.content{
+         display: inline;
+        font-weight: 10;
+        margin-top: 25rem;
+        margin-left: 4rem;
+        margin-right: 4rem;
+        padding: 0;
+        text-size-adjust: 70%;
+        color:rgb(250,246,246);
+        
+}
+
+.about{ margin:3%;
+       padding: 0;
+ 
+
+}
+.heding{display: inline;}
+
+.list{
+        list-style: none;
+      
+        justify-content: space-between;
+        padding: 0 1.5rem;
+}
+        
+        
+
+
+.main-photo{
+ 
+  border: solid block 2px;
+  display: inline;
+
+}
+
+footer{
+  background-color:rgb(99, 49, 215);
+  
+}       
+
+
+
+
+
+
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+/* font 
+.font-family{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+   
+}
+.font-large{ font-size: large;}
+.font-small{font-size: small;}*/
+
+
+
+
+/* text settings 
+.txt_left{text-align: left;}
+.txt_right{text-align: right;}
+.txt-middle{ text-align: center;
+} 
+
+.txt-start{text-align: start;}
+.txt-end{text-align:end;}
+
+.txt-bottom{vertical-align: bottom;}
+.txt-black{text-decoration-color:black ;}
+
+
+/*
+section.content{background: red;
+            
+                font-size: .6rem;
+                text-indent: 2px;
+                
+                
+                
+
+}
+.border{
+  width: 3%;
+  margin-left: 3px;
+  margin-right: 3px;
+  display: inline;
+  margin-bottom: 0;
+  margin-top: 60%;
+  transition: linear;*/
+
+
+/* display 
+.display-IB{display: inline-block;}
+.display-B{display: block;}
+.display-I{display:inline} */
+
+
+
+
+
+
+
+
+
+
